@@ -1,0 +1,11 @@
+Flask
+azure-cognitiveservices-vision-computervision
+msrest
+numpy
+Pillow
+onnx
+onnxruntime
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.10.1
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==0.11.2
